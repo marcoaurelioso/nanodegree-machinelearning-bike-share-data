@@ -37,7 +37,7 @@ You will write code to complete the following tasks:
 
 ### The Files
 To answer these questions using Python, you will need to write a Python script. To help guide your work in this project, a template with helper code and comments is provided as a downloadable .py file. You will also need the dataset file. All of the following files are available for download.
-> chicago_bikeshare_pt.zip
+> chicago-bikeshare-us.zip
 * bikeshare.py
 * chicago.csv
 
